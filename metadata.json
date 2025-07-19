@@ -1,0 +1,7 @@
+{
+  "name": "ERA Token",
+  "symbol": "ERA",
+  "description": "A sample ERA Token with freeze text control",
+  "image": "https://raw.githubusercontent.com/Piah361/ERA/refs/heads/main/ERA.png",
+  "decimals": 9
+}
